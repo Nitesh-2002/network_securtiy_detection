@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+matplotlib
+sklearn
+datetime
+imblearn
+collections
+python==3.8
